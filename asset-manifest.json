@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/conditional2-react/static/css/main.45fec61c.css",
+    "main.js": "/conditional2-react/static/js/main.0766f9c4.js",
+    "index.html": "/conditional2-react/index.html",
+    "main.45fec61c.css.map": "/conditional2-react/static/css/main.45fec61c.css.map",
+    "main.0766f9c4.js.map": "/conditional2-react/static/js/main.0766f9c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45fec61c.css",
+    "static/js/main.0766f9c4.js"
+  ]
+}
